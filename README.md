@@ -13,6 +13,20 @@ This Repository comntains notes for the GIS and QGIS Youtube Tutorials created b
 
 These 3 people are valuable members of the Gaia Resources Team and wear several other important hats within the organisation. 
 
+CONTENTS:
+1. Environmental QGIS Training - GIS 101 (Prerequisite) - GIS 101.ipynb
+2. Environmental QGIS Training - Installing QGIS & Folder Structure (Prerequisite) - Comming Soon
+3. Environmental QGIS Training - Exercise 1: Intro to QGIS - Comming Soon
+4. Environmental QGIS Training - Exercise 2 - Data Structure & Review - Comming Soon
+5. Environmental QGIS Training - Exercise 3: Symbolising & Labelling Data - Comming Soon
+6. Environmental QGIS Training - Exercise 4: Importing points & amending attributes - Comming Soon
+7. Environmental QGIS Training - Exercise 5: Creating, modifying & joining data - Comming Soon
+8. Environmental QGIS Training - Exercise 6: Geoprocessing & other handy tools - Comming Soon
+9. Environmental QGIS Training - Exercise 7: Making Maps - Comming Soon
+
+
+
+
 Below is an extract from their tutorial description on Youtube:
 
 "Proudly supported by funding from the Western Australian Government's State Natural Resource Management Program, supported by Royalties for Regions.
