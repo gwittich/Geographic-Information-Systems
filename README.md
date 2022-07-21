@@ -7,9 +7,9 @@ This Repository comntains notes for the GIS and QGIS Youtube Tutorials created b
 
 **Piers Higgs (CEO),
 
-Chris Roach (Spacial Analyst) and 
+*Chris Roach (Spacial Analyst) and 
 
-Tracey Cousins (QGIS Trainer)**. 
+*Tracey Cousins (QGIS Trainer). 
 
 These 3 people are valuable members of the Gaia Resources Team and wear several other important hats within the organisation. 
 
